@@ -1,8 +1,8 @@
 package com.overnet.gestionestudenti;
 
 public class Studente extends Object {
-	String nome;
-	String cognome;
+	private String nome;
+	private String cognome;
 	
 	public Studente(String nome, String cognome) {
 		super();
@@ -23,7 +23,16 @@ public class Studente extends Object {
 		this.cognome = cognome;
 	}
 	
+	public boolean equals(Studente s2) {
+		return this.nome.equals(s2.getNome()) && this.cognome.equals(s2.getCognome());
+	}
+	
 	public String toString() {
 		return this.cognome + " - " + this.nome;
+	}
+	
+	public Studente clone() {
+		Studente s = new Studente(this.nome, this.cognome);
+		return s;
 	}
 }
