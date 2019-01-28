@@ -1,6 +1,6 @@
-package hellojava;
+package com.overnet.hellojava;
 
-public class Hello{
+public class ReverseString{
 	public static void main(String[] args){
 		String a = new String("la mia stringa");	
 		
