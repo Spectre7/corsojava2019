@@ -98,9 +98,9 @@ public class AlienPack {
 
 The code is not very object-oriented and does not support information hiding in
 the Alien class. Rewrite the code so that inheritance is used to represent the
-different types of aliens instead of the “type” parameter. This should result in
-deletion of the “type” parameter. Also rewrite the Alien class to hide the member
-variables and create a “getDamage” method for each derived class that returns
+different types of aliens instead of the "type" parameter. This should result in
+deletion of the "type" parameter. Also rewrite the Alien class to hide the member
+variables and create a "getDamage" method for each derived class that returns
 the amount of damage the alien inflicts. Finally, rewrite the calculateDamage
 method to use getDamage and write a main method that tests the code.
 
