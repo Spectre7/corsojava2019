@@ -1,9 +1,25 @@
 package com.overnet.gestionestudenti;
 
+/**
+ * 
+ * Questa classe serve per bla bla
+ * 
+ * 
+ * @author Administrator
+ * @since version 1
+ * 
+ */
+
 public class Studente extends Object {
 	private String nome;
 	private String cognome;
 	
+	/**
+	 * Questo è il costruttore standard
+	 * 
+	 * @param nome - nome dello studente
+	 * @param cognome - cognome dello studente
+	 */
 	public Studente(String nome, String cognome) {
 		super();
 		this.nome = nome;
