@@ -1,12 +1,15 @@
 package com.overnet.overriding;
 
 public class InterestAccount extends Account {
+	
+
 	private int rate;
 	
 	public InterestAccount(int saldo, int rate) {
 		super(saldo);
 		this.rate = rate;
 	}
+
 	
 	public int getRate() {
 		return rate;
