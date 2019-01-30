@@ -3,6 +3,7 @@ Benvenuti
 
 # Notes
 
+ - [Lang](pages/lang)
  - [Files](pages/files)
  - [Exceptions](pages/exceptions)
  - [Intefaces](pages/interfaces)
