@@ -1,6 +1,6 @@
 # Off-topics
 
-![Illusion](img/illusion.png "illusion")
+![Illusion](img/illusion.jpg "illusion")
 
 
 ![Interview](img/interview.png "interview")
