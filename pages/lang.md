@@ -1,6 +1,6 @@
 # Java Lang
 
-![jse](img/jse.png "jse")
+![jse](img/jse.jpg "jse")
 
 
 ![javalang](img/javalang.png "javalang")
