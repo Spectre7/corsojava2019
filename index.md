@@ -1,7 +1,7 @@
 # Corso Java 2019
 Benvenuti
 
-# Tutorials
+# Notes
 
  - [Files](pages/files)
  - [Exceptions](pages/exceptions)
