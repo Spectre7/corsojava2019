@@ -22,3 +22,10 @@
 ![display4](img/display4.png "display4")
 
 ![testing](img/testint.png "testing")
+
+
+
+# Un caso d'uso - Observer pattern - Listener - Programmazione orientata agli eventi
+
+![Observer](img/observer.png "Observer")
+

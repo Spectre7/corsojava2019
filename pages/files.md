@@ -55,5 +55,6 @@ public class Test {
 
 
 ## Writing
-Writing text files is left as exercise.
+ 1) Writing text files is left as exercise.  
+ 2) Rifare l'esercizio precedente utilizzando *PrintWriter*.
 
