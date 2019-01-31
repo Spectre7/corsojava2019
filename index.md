@@ -8,6 +8,8 @@ Benvenuti
  - [Exceptions](pages/exceptions)
  - [Intefaces](pages/interfaces)
  - [Threads](pages/threads)
+ - [Generics](pages/generics)
+ - [Lambda Expressions](pages/lambda)
  - [Design Patterns](pages/patterns)
  - [Eclipse](pages/eclipse)
  - [WebScraping](pages/webscraping)
