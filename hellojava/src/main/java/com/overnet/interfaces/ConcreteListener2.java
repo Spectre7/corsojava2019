@@ -12,17 +12,7 @@ public class ConcreteListener2 implements Listener {
 		
 	}
 
-	@Override
-	public String unMetodo() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 
-	@Override
-	public void unAltroMetodo(int unPar) {
-		// TODO Auto-generated method stub
-		
-	}
 	
 	
 	

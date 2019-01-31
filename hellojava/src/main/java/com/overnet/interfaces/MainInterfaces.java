@@ -1,5 +1,7 @@
 package com.overnet.interfaces;
 
+import java.util.Collection;
+
 public class MainInterfaces {
 	private Listener l;
 	
@@ -19,5 +21,8 @@ public class MainInterfaces {
 		int temp = a*5;
 	}
 
-
+	
+	public void metodo(Collection c) {
+		c.contains(null);
+	}
 }
