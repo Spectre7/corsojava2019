@@ -24,6 +24,9 @@
 ![testing](img/testint.png "testing")
 
 
+# Interfaces nel Java Collection Framework
+
+![collection](img/collections.png "collection")
 
 # Un caso d'uso - Observer pattern - Listener - Programmazione orientata agli eventi
 
