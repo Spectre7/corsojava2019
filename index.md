@@ -7,6 +7,8 @@ Benvenuti
  - [Files](pages/files)
  - [Exceptions](pages/exceptions)
  - [Intefaces](pages/interfaces)
+ - [Design Patterns](pages/patterns)
+ - [Eclipse](pages/eclipse)
  - [WebScraping](pages/webscraping)
  - [Handling Excel Files](pages/excel)
  - [Off-topics](pages/offtopics)
