@@ -125,4 +125,4 @@ the amount of damage the alien inflicts. Finally, rewrite the calculateDamage
 method to use getDamage and write a main method that tests the code.
 
 
-
+![panter](pages/img/panter.png "panter")
