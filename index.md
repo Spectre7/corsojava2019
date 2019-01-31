@@ -11,13 +11,12 @@ Benvenuti
  - [Handling Excel Files](pages/excel)
  - [Off-topics](pages/offtopics)
  
-# Other books
-[mat](https://drive.google.com/drive/folders/0Bx2fZ0r5vhSSSDdvWkVjNG9YQjQ){:target="_blank"}
+[//]: # (https://drive.google.com/drive/folders/0Bx2fZ0r5vhSSSDdvWkVjNG9YQjQ)
 
-[info](https://drive.google.com/drive/folders/0B4b1SH9ZbeKnanl0Qk5zMk9WUEE){:target="_blank"}
+[//]: # (https://drive.google.com/drive/folders/0B4b1SH9ZbeKnanl0Qk5zMk9WUEE)
 
 # Letture consigliate
-Da reference/book/JavaEE/Java SE/Beginning Java 8 Fundamentals leggere da pagina 12 in poi.
+Beginning Java 8 Fundamentals leggere da pagina 12 in poi.
 
 # Esercizio 1
 Define a class called Fraction. This class is used to represent a ratio of two integers.
