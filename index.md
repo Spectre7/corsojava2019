@@ -7,6 +7,7 @@ Benvenuti
  - [Files](pages/files)
  - [Exceptions](pages/exceptions)
  - [Intefaces](pages/interfaces)
+ - [Threads](pages/threads)
  - [Design Patterns](pages/patterns)
  - [Eclipse](pages/eclipse)
  - [WebScraping](pages/webscraping)
