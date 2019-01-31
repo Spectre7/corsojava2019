@@ -15,7 +15,7 @@ public class Account {
 	
 	public void notifica() {
 		for (Observer o : observers) {
-			o.update(this.saldo);
+			o.update(this.numero, this.saldo);
 		}
 	}
 	

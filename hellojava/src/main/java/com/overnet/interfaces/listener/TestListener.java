@@ -4,14 +4,17 @@ public class TestListener {
 
 	public static void main(String[] args) {
 		Account a = new Account(0);
+		Account b = new Account(100);
 		
-		a.addObserver(new ConcreteObserver1());
+	
+		b.addObserver(ConcreteObserver1.getInstance());		
+		a.addObserver(ConcreteObserver1.getInstance());		
 		a.addObserver(new ConcreteObserver2());
 		
 		a.deposita(100);
 		a.preleva(50000);
 		
-		
+		b.preleva(1000);
 		
 		// System.out.println("account negativo = " + saldo);
 		
