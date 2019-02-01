@@ -2,6 +2,9 @@
 
 Note: this lesson will introduce a new concept (other than files): Exceptions and how to handle them.
 
+## Prerequisite - Streams
+![stream](img/stream.png)
+
 ## Reading
 You can read text files using this class:
  - *FileReader* for text files in your system.  

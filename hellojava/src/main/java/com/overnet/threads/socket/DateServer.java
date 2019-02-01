@@ -13,10 +13,14 @@ public class DateServer {
 		Date now = new Date();
 		try {
 			System.out.println("Waiting for a connection on port 7654.");
-			ServerSocket serverSock = new ServerSocket(7654);
-			Socket connectionSock = serverSock.accept();
+			
+			ServerSocket serverSock = new ServerSocket(7654);			
+			Socket connectionSock = serverSock.accept();   //<-- aspetta
+			
+			
 			BufferedReader clientInput = new BufferedReader(new InputStreamReader(connectionSock.getInputStream()));
 			DataOutputStream clientOutput = new DataOutputStream(connectionSock.getOutputStream());
+			
 			System.out.println("Connection made, waiting for client " + "to send their name.");
 			String clientText = clientInput.readLine();
 			String replyText = "Welcome, " + clientText + ", Today is " + now.toString() + "\n";

@@ -9,10 +9,14 @@ import java.io.IOException;
 public class DateClient {
 	public static void main(String[] args) {
 		try {
-			String hostname = "localhost";
+			
+			String hostname = "192.168.15.103";
 			int port = 7654;
 			System.out.println("Connecting to server on port " + port);
-			Socket connectionSock = new Socket(hostname, port);
+			Socket connectionSock = new Socket(hostname, port);  //<-- si connette al pc hostname alla porta 7654
+			
+			
+			
 			BufferedReader serverInput = new BufferedReader(new InputStreamReader(connectionSock.getInputStream()));
 			DataOutputStream serverOutput = new DataOutputStream(connectionSock.getOutputStream());
 			System.out.println("Connection made, sending name.");
