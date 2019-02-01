@@ -8,6 +8,7 @@ Benvenuti
  - [Exceptions](pages/exceptions)
  - [Intefaces](pages/interfaces)
  - [Threads](pages/threads)
+ - [Enum Types](pages/enum)
  - [Collections](pages/collections)
  - [Generics](pages/generics)
  - [Lambda Expressions](pages/lambda)
@@ -16,6 +17,7 @@ Benvenuti
  - [Eclipse](pages/eclipse)
  - [WebScraping](pages/webscraping)
  - [Handling Excel Files](pages/excel)
+ - [Handling Pdf Files](pages/pdf)
  - [Off-topics](pages/offtopics)
  
 [//]: # (https://drive.google.com/drive/folders/0Bx2fZ0r5vhSSSDdvWkVjNG9YQjQ)
@@ -128,3 +130,5 @@ method to use getDamage and write a main method that tests the code.
 
 
 ![panter](pages/img/panter.png "panter")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf9g4Apzop0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
