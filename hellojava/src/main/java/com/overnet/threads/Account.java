@@ -7,7 +7,7 @@ public class Account {
 		saldo = s;
 	}
 	
-	public void versamento(int a) {
+	public synchronized void versamento(int a) {
 		int b = this.saldo;
 		b+=(a+10);
 		this.saldo=b;

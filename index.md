@@ -10,6 +10,7 @@ Benvenuti
  - [Threads](pages/threads)
  - [Generics](pages/generics)
  - [Lambda Expressions](pages/lambda)
+ - [Reflection](pages/reflection)
  - [Design Patterns](pages/patterns)
  - [Eclipse](pages/eclipse)
  - [WebScraping](pages/webscraping)
