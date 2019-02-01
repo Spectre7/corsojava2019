@@ -8,6 +8,7 @@ Benvenuti
  - [Exceptions](pages/exceptions)
  - [Intefaces](pages/interfaces)
  - [Threads](pages/threads)
+ - [Collections](pages/collections)
  - [Generics](pages/generics)
  - [Lambda Expressions](pages/lambda)
  - [Reflection](pages/reflection)

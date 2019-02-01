@@ -10,7 +10,7 @@ public class DateClient {
 	public static void main(String[] args) {
 		try {
 			
-			String hostname = "192.168.15.103";
+			String hostname = "localhost";
 			int port = 7654;
 			System.out.println("Connecting to server on port " + port);
 			Socket connectionSock = new Socket(hostname, port);  //<-- si connette al pc hostname alla porta 7654
