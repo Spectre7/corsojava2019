@@ -26,14 +26,6 @@ Benvenuti
 
 [//]: # (https://drive.google.com/drive/folders/0B4b1SH9ZbeKnanl0Qk5zMk9WUEE)
 
-# Links
-
-
-
-# Letture consigliate
-Beginning Java 8 Fundamentals leggere da pagina 12 in poi.
-
-
 ![panter](pages/img/panter.png "panter")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rf9g4Apzop0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
