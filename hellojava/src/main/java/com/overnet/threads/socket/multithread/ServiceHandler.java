@@ -35,6 +35,9 @@ public class ServiceHandler implements Runnable {
 			//clientInput.close();
 			//connectionSock.close();
 		} catch(IOException ioe) {
+
+			
+			
 			
 		}
 	}
