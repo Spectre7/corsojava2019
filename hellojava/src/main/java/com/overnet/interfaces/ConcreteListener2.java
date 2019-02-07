@@ -6,7 +6,6 @@ public class ConcreteListener2 implements Listener {
 		
 	}
 
-	@Override
 	public void notifica() {
 		System.out.println("io sono ConcreteListener2");
 		

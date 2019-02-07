@@ -13,8 +13,7 @@ public class ServiceHandler implements Runnable {
 	public ServiceHandler(Socket s) {
 		this.connectionSock = s;
 	}
-	
-	@Override
+
 	public void run() {
 		Date now = new Date();
 		

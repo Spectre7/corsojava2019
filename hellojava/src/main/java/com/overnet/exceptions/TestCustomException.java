@@ -23,6 +23,7 @@ public class TestCustomException {
 		throw new CheckedCustomException();
 	}
 	
+	@Deprecated
 	public static void metodo2() throws UncheckedCustomException {
 		int a = 10;
 		throw new UncheckedCustomException(a);

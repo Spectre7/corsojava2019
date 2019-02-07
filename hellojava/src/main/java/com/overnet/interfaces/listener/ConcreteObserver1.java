@@ -6,7 +6,7 @@ public class ConcreteObserver1 implements Observer {
 	
 	private ConcreteObserver1() {}
 	
-	@Override
+
 	public void update(int n, int saldo) {
 		if(saldo<0)
 			System.out.println("Warning saldo negativo sul cc n. " + n);

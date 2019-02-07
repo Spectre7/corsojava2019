@@ -6,7 +6,6 @@ import java.util.Set;
 
 public class ConcreteListener implements Listener {
 
-	@Override
 	public void notifica() {
 		System.out.println("io sono ConcreteListener");
 		

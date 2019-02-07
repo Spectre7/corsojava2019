@@ -13,7 +13,7 @@ Benvenuti
  - [Collections](pages/collections)
  - [Generics](pages/generics)
  - [Lambda Expressions](pages/lambda)
- - [Annotaions](pages/annotations)
+ - [Annotations](pages/annotations)
  - [Reflection](pages/reflection)
  - [Design Patterns](pages/patterns)
  - [Eclipse](pages/eclipse)
