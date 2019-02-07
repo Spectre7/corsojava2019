@@ -1,8 +1,7 @@
 package com.overnet.annotations;
 
 @MyAnnotation(name = "un nome")
-public class MyClass {
-	
+public class MyClass {	
 	@MyAnnotation(name="excel",attributoIntero=100)
 	public void metodo1() {}
 	
@@ -14,6 +13,7 @@ public class MyClass {
 	
 	@MyAnnotation()
 	public void metodo4() {}
+	
 	
 	public void metodd() {}
 }	
