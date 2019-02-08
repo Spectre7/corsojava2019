@@ -8,6 +8,6 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.TYPE, ElementType.METHOD})
 public @interface MyAnnotation {
-	String name() default "valore di default";
+	String name();
 	int attributoIntero() default 10;
 }

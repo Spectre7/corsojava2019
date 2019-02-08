@@ -15,6 +15,7 @@ Benvenuti
  - [Lambda Expressions](pages/lambda)
  - [Annotations](pages/annotations)
  - [Reflection](pages/reflection)
+ - [Varargs](pages/varargs)
  - [Design Patterns](pages/patterns)
  - [Eclipse](pages/eclipse)
  - [WebScraping](pages/webscraping)

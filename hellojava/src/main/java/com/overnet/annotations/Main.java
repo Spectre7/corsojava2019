@@ -1,12 +1,13 @@
 package com.overnet.annotations;
 
 import java.lang.annotation.Annotation;
+import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IllegalAccessException, IllegalArgumentException, InvocationTargetException {
 		// Reflection
 		// DOMINIO: Class, Method, Annotation
 		
@@ -34,7 +35,7 @@ public class Main {
 				Method[] attributi = annotazione.getDeclaredMethods();
 				for(int j=0;j<attributi.length;j++) {
 					
-					System.out.println("----- " + attributi[j].getName());
+					System.out.println("----- " + attributi[j].getName() + " " + attributi[j].invoke(annotazioni[k]));
 				}
 				
 				
