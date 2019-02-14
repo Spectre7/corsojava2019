@@ -1,0 +1,14 @@
+{
+utenti: [{nome:'giuseppe',cognome:'rossi'},{nome:'mario',cognome:'verdi'}]
+}
+
+
+
+{
+attributi:10,
+attr:'var',
+attrr:['a','b']
+utenti: [{n:0},{n:1}]
+a:{at:[{}]}
+}
+

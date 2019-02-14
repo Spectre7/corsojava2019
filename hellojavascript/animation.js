@@ -41,4 +41,6 @@ function createEnemy(){
 	var e = document.createElement("div");
 	e.setAttribute("class", "enemy");
 	document.body.appendChild(e);
+
+	
 }
