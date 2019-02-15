@@ -1,0 +1,17 @@
+# Connect Spring App to Oracle DB
+
+ - Install maven
+ - Install ojdbc into local repository: mvn install:install-file -Dfile=ojdbc6.jar  -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=12.1.0.2.0 -Dpackaging=jar
+ - Add dependency  
+         <dependency>  
+            <groupId>com.oracle</groupId>  
+            <artifactId>ojdbc6</artifactId>  
+            <version>12.1.0.2.1</version>  
+        </dependency>  
+
+  - application.properties
+#Basic Spring Boot Config for Oracle    
+spring.datasource.url= jdbc:oracle:thin:@localhost:1521:xe  
+spring.datasource.username=hr  
+spring.datasource.password=hr  
+spring.datasource.driver-class-name=oracle.jdbc.OracleDriver  
